@@ -142,7 +142,12 @@ footer {
     font-size: 25px;
 }
 
+#name{
+    text-decoration: none;
+    color: black;
+}
+
 #name:hover {
     font-weight: bold;
-    cursor: grab;
+    font-size: 25px;
 }
