@@ -18,7 +18,7 @@
 }
 
 .container {
-    width: 80%;
+    width: 1200px;
     margin: 20px auto;
 }
 
@@ -47,7 +47,6 @@ header img {
 
 .nav-element {
     color: lightgray;
-    float: left;
     margin-right: 10px;
     font-size: large;
     text-decoration: none;
@@ -138,7 +137,12 @@ footer {
     margin-top: 20px;
 }
 
-footer span {
+#heart {
     color: red;
     font-size: 25px;
+}
+
+#name:hover {
+    font-weight: bold;
+    cursor: grab;
 }
